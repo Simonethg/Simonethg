@@ -26,7 +26,7 @@ I find where payments and data break, and why, **before your users do**. Now I a
 - 🤖 **AI, LLM & MCP automation.** I automate testing and processes with AI agents: LLM/MCP agents that cross-check payment-processor data, dashboards and financial reports, end-to-end payment flows.
 - 🎓 **Co-founder of [AcademiaQA](https://academiaqa.com)**, a Spanish-language QA academy: **120,000+ students since 2021**, in 80+ countries.
 - 🏆 **Hackathon winner as technical PM**: owning the architecture and the business model, and driving execution with the team all the way to the final demo.
-- 🎤 **Speaker at Nerdearla** (2021, 2022).
+- 🎤 **Speaker at Nerdearla** (2021, 2022, 2024 and 2026).
 
 <sub>🎓 Master's in Education (2024) · ✅ Scrum Foundation Professional Certificate (SFPC, 2022) · 🧭 Ontological coach (2022) · 🎤 Nerdearla speaker</sub>
 
