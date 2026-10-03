@@ -1,21 +1,8 @@
-<p align="center">
-  <a href="https://simonethg.com"><img src="assets/header.jpg" width="100%" alt="Hi, I'm Simoneth. AI Product Engineer, Technical Product Manager and QA Automation Lead. FinTech, EdTech, AdTech. Payments across LATAM, AI / LLM / MCP automation, 120,000+ students trained with AcademiaQA."></a>
-</p>
 
-<h3 align="center">🎬 My video CV (3:41, English subtitles)</h3>
 
-<!-- VIDEO_CV_ATTACHMENT
-  To make the video play right here on GitHub: open this README in the GitHub web editor (or any issue),
-  drag in video-cv-github.mp4 (8.6 MB, H.264/AAC 720p), wait for the upload, then paste the generated
-  https://github.com/user-attachments/assets/... URL on its own line just below this comment, with a blank
-  line before and after it. Keep the YouTube cover below as a fallback for viewers whose app can't play it.
--->
+https://github.com/user-attachments/assets/7188beab-14a7-4aef-8263-a11700ce4d48
 
-<p align="center">
-  <a href="https://youtu.be/o5QZIFIH3Cw"><img src="assets/video-cv-cover.jpg" width="100%" alt="Play Simoneth Gomez Fernandez's video CV on YouTube (3:41, English subtitles)"></a>
-  <br>
-  <sub>▶ Click the cover to watch on YouTube.</sub>
-</p>
+
 
 <p align="center">
   <a href="https://simonethg.com"><img src="https://img.shields.io/badge/simonethg.com-FFBC00?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A" alt="Website: simonethg.com"></a>
