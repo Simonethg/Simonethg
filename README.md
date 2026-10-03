@@ -119,7 +119,7 @@ From my newsletter **[QA Step by Step](https://paragraph.com/@simonethg)** (in S
 ### 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simonethg&show_icons=true&hide_rank=true&hide_border=true&custom_title=Simoneth%27s%20GitHub%20stats&bg_color=F4F2EA&title_color=FF7900&icon_color=FFBC00&text_color=0A0A0A&border_radius=12&disable_animations=true" height="165" alt="Simoneth's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simonethg&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&custom_title=Simoneth%27s%20GitHub%20stats&bg_color=F4F2EA&title_color=FF7900&icon_color=FFBC00&text_color=0A0A0A&border_radius=12&disable_animations=true" height="165" alt="Simoneth's GitHub stats">
   <img src="https://streak-stats.demolab.com/?user=Simonethg&background=F4F2EA&ring=FF7900&fire=FFBC00&currStreakLabel=FF7900&sideLabels=0A0A0A&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=6b6b6b&stroke=0A0A0A&hide_border=true&border_radius=12&disable_animations=true" height="165" alt="Simoneth's GitHub contribution streak">
 </p>
 <p align="center">
